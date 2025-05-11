@@ -1,1 +1,2 @@
-# EDA-and-Visualization
+# EDA-and-Visualization (Task1)
+I loaded the Titanic dataset and checked for missing values, filling missing 'Age' values with the mean and 'Embarked' with the mode. Due to over 70% missing values, I dropped the 'Cabin' column. I visualized categorical features using count plots and numerical features with histograms to analyze distributions. After cleaning and handling missing data, the dataset was ready for further analysis or modeling.
